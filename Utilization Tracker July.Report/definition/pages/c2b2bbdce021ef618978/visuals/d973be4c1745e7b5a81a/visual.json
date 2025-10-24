@@ -5,8 +5,8 @@
     "x": 158.334151445475,
     "y": 3.5714470250859018,
     "z": 0,
-    "height": 45.238328984421422,
-    "width": 252.38225643940373
+    "height": 71.428940501718031,
+    "width": 221.42971555532591
   },
   "visual": {
     "visualType": "textbox",
@@ -18,14 +18,15 @@
               {
                 "textRuns": [
                   {
-                    "value": "Utilization Tracker",
+                    "value": "Utilization Tracker Dev",
                     "textStyle": {
                       "fontWeight": "bold",
                       "fontSize": "16pt",
                       "color": "#0e1a77"
                     }
                   }
-                ]
+                ],
+                "horizontalTextAlignment": "center"
               }
             ]
           }
